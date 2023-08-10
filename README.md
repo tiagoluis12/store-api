@@ -25,3 +25,8 @@ The Store API project is developed using the following technologies:
 ## Contributing
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to submit a pull request.
+
+below are some prints of the project:
+![Screen Shot 2023-08-10 at 14 15 23 (2)](https://github.com/tiagoluis12/store-api/assets/128226293/6ec769f0-c35a-4395-99a7-33a62f810461)
+![Screen Shot 2023-08-10 at 14 06 20](https://github.com/tiagoluis12/store-api/assets/128226293/886350a9-465b-4dd1-9e7e-db279d6de436)
+
