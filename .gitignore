@@ -1,3 +1,5 @@
-#ignore node_modules
+# Ignorar node modules
 node_modules
+
+# Secrets
 .env
